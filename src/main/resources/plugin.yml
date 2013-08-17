@@ -1,0 +1,7 @@
+name: LineOfSightTest
+version: '0.0.1-SNAPSHOT'
+description: 'Extremely small plugin to test a CB PR'
+main: me.firedroide.plugins.LineOfSightTest.LineOfSightTest
+load: POSTWORLD
+author: 'Firedroide'
+database: false
